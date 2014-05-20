@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
 
+// This script handles picking up/putting down blocks during some of the later tests.
+
 public class BlockCarrier : MonoBehaviour
 {
     public float maxRangeForPickup;
@@ -18,7 +20,7 @@ public class BlockCarrier : MonoBehaviour
     void PickupObject(GameObject obj)
     {
         pickedUpObject = obj;
-        pickedUpObject.transform.parent = Camera.mainCamera.transform;
+        pickedUpObject.transform.parent = Camera.main.transform;
         pickedUpObject.rigidbody.isKinematic = true;
         pickedUpObject.rigidbody.useGravity = false;
 
