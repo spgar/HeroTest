@@ -1,7 +1,7 @@
 HeroTest
 ========
 
-HeroTest is a game made with Unity3D and Playmaker in 48 hours. Theme: "The Worst Game I Have Ever Made"
+HeroTest is a game made with Unity3D and Playmaker in 48 hours. Theme: "The Worst Game I Have Ever Made". This game is very inspired by Portal, and I had a lot of fun making it!
 
 Last tested with Unity 4.3.2f1 and Playmaker 1.7.7.1.
 
