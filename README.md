@@ -19,10 +19,3 @@ Play Hero Test [in the Unity Webplayer here](http://www.stevegargolinski.com/pro
 ## More Information:
 
 For more information you can [check out my blog post here](http://www.stevegargolinski.com/hero-test-a-48-hour-game/), which includes a bunch of information about the game.
-
-## Contact:
-
-Steve Gargolinski  
-steve.gargolinski@gmail.com  
-[@sgargolinski](http://twitter.com/sgargolinski)  
-[http://www.stevegargolinski.com](http://www.stevegargolinski.com)
